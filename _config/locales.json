@@ -1,0 +1,110 @@
+{
+  "howItWorks": "Jak to funguje?",
+  "cases": "Případovky",
+  "priceList": "Ceník",
+  "wantFreeConsultation": "Chci konzultaci zdarma",
+  "freeConsultation": "Konzultace zdarma",
+  "heroTitle": "Ušetřete za nábor zaměstnanců.",
+  "heroSubtitleOne": "HR kampaně jednoduše a kvalitně.",
+  "heroSubtitleTwo": "Cena za nového zájemce o pozici od 95 Kč.",
+  "someClients": "Někteří naši klienti",
+  "someClientsPara": "Naši stávající klienti dlouhodobě bojují s nedostatkem kvalitních zaměstnanců. Ve spolupráci s nimi vyvinuli pokročilý produkt HR marketingu na sociálních sítích. Umožňuje dokonale zacílit zaměstnance, přesně dle vašich požadavků. Tam, kde HR agentury končí, my začínáme. ",
+
+  "howCollabWorks": "Jak spolupráce probíhá?",
+  "inSixSteps": "V jednoduchých šesti krocích, které společně uskutečníme",
+  "steps": [
+    {
+      "title": "Koncept kampaně",
+      "para": "Na začátku si stanovíme dobu trvání kampaně a definujeme si cílení. Budeme pracovat s geografickými lokacemi, damografií, vzděláním a specifickými znalostmi. Navíc můžeme hledat dle specifické pracovní pozice."
+    },
+    {
+      "title": "Podklady z vaší strany",
+      "para": "Dodání podkladů: text inzerátu a vhodné grafické prvky nebo odkaz na inzerát (na vašem webu, jobs.cz apod.) Možnost napojení do vašeho CRM systému, pro automatický import kontaktů."
+    },
+    {
+      "title": "Nastavení a spuštění kampaní",
+      "para": "Jakmile máme kampaně nastavené a definované dle předchozích kroků, tak kampaně spustíme."
+    },
+    {
+      "title": "Kontaktování kandidátů",
+      "para": "Každý den od nás budete dostávat seznam potenciálních kandidátů. Pro úspěch kampaně je nutné je průběžně kontaktovat emailem nebo po telefonu."
+    },
+    {
+      "title": "Průběžné vyhodnocování",
+      "para": "Možnost A/B testování. Pro větší úspěšnost kampaně je možné otestovat několik znění inzerátů."
+    },
+    {
+      "title": "Ukončení kampaně a vyhodnocení",
+      "para": "Na závěr kampaně se sejdeme a kampaně společně vyhodnotíme "
+    }
+  ],
+  "hrCampaignes": "HR kampaně jednoduše a kvalitně.",
+  "newApplicant": "Cena za nového zájemce o pozici od 95 Kč.",
+
+  "cooperationsTitle": "Příklady spoluprací",
+  "cooperations": [
+    {
+      "name": "abb",
+      "place": "Brno",
+      "position": "Skladník, Operátor CNC, Operátor výroby, Elektromechanik",
+      "desc": "Pracovali jsme na grafice, copywritingu, strategii a nastavení kampaně.",
+      "result": {
+        "title": "Celkem získaných leadů",
+        "texts": [
+          "404 s průměrnou cenou 92 Kč",
+          "Pro každou pozici nejméně 150 zájemců"
+        ]
+      }
+    },
+    {
+      "name": "abb",
+      "place": "Ostrava",
+      "position": "C# Developer",
+      "desc": "Pracovali jsme na grafice, copywritingu, strategii a nastavení kampaně.",
+      "result": {
+        "title": "Celkem získaných leadů",
+        "texts": ["29 s průměrnou cenou 185 Kč"]
+      }
+    },
+    {
+      "name": "imaginox",
+      "place": "",
+      "position": "C# Developer",
+      "desc": "Skladník, Zámečník",
+      "result": {
+        "title": "Celkem získaných leadů",
+        "texts": [
+          "62 s průměrnou cenou 318 Kč",
+          "Na pohovor pozváno 9 kandidátů",
+          "Přijati 4 svářeči.",
+          "Průměrná cena za přijatého uchazeče 4929 Kč"
+        ]
+      }
+    },
+    {
+      "name": "huegli",
+      "place": "",
+      "position": "Operátor výrobní linky",
+      "desc": "Generickým vizuálům z fotobank odzvonilo. Pro Hugli food jsme zpracovali vizuální koncept a následné focení šéfa výroby, se kterým bude nabíraný zaměstnanec denně v kontaktu. Jeho fotky jsme využili ke kampani.",
+      "result": {
+        "title": "Celkem získaných leadů",
+        "texts": ["73 s průměrnou cenou 569.89 Kč"]
+      }
+    }
+  ],
+  "universalPrices": "Univerzální ceny, které sedí všem druhům businessu.",
+  "grafWork": "Grafické práce 10 000 Kč",
+  "settingUpCampaignes": "Nastavení kampaní 40 000 Kč",
+  "invest": "Doporučená investice do reklamy začíná na 20 000 Kč",
+  "surcharge": "Doplatek po obsazení pozice po 3 měsících: 1 plat",
+
+  "contactTitle": "Ušetřete za nábor zaměstnanců.",
+  "contactName": "Daniel Votruba",
+  "contactMail": "dan@advertia.cz",
+  "contactTel": "+420 847 839 394",
+
+  "advertia": "advertia digital s.r.o.",
+  "footerPara": "advertia digital, strategická agentura se zaměřením na branding, marketing a design. Tvoříme kreativní nápady, které si vaši zákazníci budou pamatovat.",
+  "czechRepublic": "Česká republika",
+  "jury": "Městský soud v Praze, odd. C vložka 95227"
+}
